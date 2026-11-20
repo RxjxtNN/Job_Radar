@@ -236,7 +236,7 @@ HTTP_RETRIES: int = 2               # extra attempts on timeout / 429 / 5xx (exp
 REQUEST_PAUSE: float = 0.2          # seconds between requests (rate-limit courtesy)
 # Public repo URL — set after pushing; shown in the app and sent in the
 # User-Agent so API operators can see who is calling.
-REPO_URL: str = ""  # e.g. "https://github.com/<your-account>/job-radar"
+REPO_URL: str = "https://github.com/RxjxtNN/Job_Radar"
 USER_AGENT: str = "JobRadar/1.0" + (f" (+{REPO_URL})" if REPO_URL else "")
 
 # ---------------------------------------------------------------------------

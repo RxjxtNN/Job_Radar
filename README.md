@@ -109,8 +109,8 @@ See detailed log: [sources.md](sources.md)
 
 ### 1. Requirements & Setup
 ```bash
-git clone https://github.com/<your-account>/job-radar.git
-cd job-radar
+git clone https://github.com/RxjxtNN/Job_Radar.git
+cd Job_Radar
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -152,7 +152,7 @@ python eval/score.py
 ## 🗂️ Project Layout
 
 ```
-job-radar/
+Job_Radar/
 ├── run_pipeline.py        # entry point: collect → normalize → filter → refilter → dedup → tag → publish
 ├── config.py              # every tunable: roles, fresher rules, cities, model, company lists
 ├── collectors/            # one file per job board — fetch() + normalize(), auto-discovered
