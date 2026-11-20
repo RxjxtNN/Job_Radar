@@ -1,0 +1,15 @@
+{
+  "collected": 12220,
+  "removed_non_india": 10197,
+  "removed_non_fresher": 1684,
+  "kept_this_run": 338,
+  "stored": 341,
+  "duplicates": 21,
+  "unique": 320,
+  "tagged": 320,
+  "untagged": 0,
+  "llm_not_fresher": 74,
+  "expired": 0,
+  "live": 246,
+  "last_run": "2026-11-20T19:36:41.682997+00:00"
+}
