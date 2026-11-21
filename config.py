@@ -363,7 +363,6 @@ LEVER_COMPANIES: list[str] = [
     "hevodata",
     "mactores",
     "stable-money1",
-    "sprinto",
     "100ms",
     "fampay",
     "gushwork",
