@@ -1,15 +1,15 @@
 {
-  "collected": 12206,
-  "removed_non_india": 10207,
-  "removed_non_fresher": 1665,
-  "kept_this_run": 333,
-  "stored": 341,
+  "collected": 12192,
+  "removed_non_india": 10196,
+  "removed_non_fresher": 1664,
+  "kept_this_run": 331,
+  "stored": 342,
   "duplicates": 21,
-  "unique": 320,
-  "tagged": 320,
+  "unique": 321,
+  "tagged": 321,
   "untagged": 0,
   "llm_not_fresher": 74,
   "expired": 0,
-  "live": 246,
-  "last_run": "2026-11-20T20:05:26.493343+00:00"
+  "live": 247,
+  "last_run": "2026-11-21T07:37:09.276320+00:00"
 }
